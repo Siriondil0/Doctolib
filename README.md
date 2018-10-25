@@ -22,7 +22,7 @@ Ta startup de docteurs marche à merveille, tellement que tu aimerais ajouter pl
 * Fayçal Meghzili   slack/  @Fays :dolphin:
 
 ## Lien vers tous les exos :
-* [DoctoLib](https://github.com/sassani134/Doctolib)
+* [DoctoLib](https://github.com/Siriondil0/Doctolib)
 * [AirbnDog](https://github.com/RomainRec/AirbnDog)
 * [Gossip project](https://github.com/Siriondil0/Gossip_project)
 * [Usine](https://github.com/zaydang/S4J4_Usine)
